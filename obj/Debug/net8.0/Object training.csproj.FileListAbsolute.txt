@@ -1,0 +1,14 @@
+C:\Users\joaoc\Desktop\Object training\bin\Debug\net8.0\Object training.exe
+C:\Users\joaoc\Desktop\Object training\bin\Debug\net8.0\Object training.deps.json
+C:\Users\joaoc\Desktop\Object training\bin\Debug\net8.0\Object training.runtimeconfig.json
+C:\Users\joaoc\Desktop\Object training\bin\Debug\net8.0\Object training.dll
+C:\Users\joaoc\Desktop\Object training\bin\Debug\net8.0\Object training.pdb
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\Object training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\Object training.AssemblyInfoInputs.cache
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\Object training.AssemblyInfo.cs
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\Object training.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\Object training.dll
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\refint\Object training.dll
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\Object training.pdb
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\Object training.genruntimeconfig.cache
+C:\Users\joaoc\Desktop\Object training\obj\Debug\net8.0\ref\Object training.dll
